@@ -112,7 +112,7 @@ prop_identity x = id' x == x
 --
 --    >>> quickCheck prop_identity
 --
---    === prop_identity from /Users/chrisb/Documents/typed-holes-tutorial/src/Main.hs:109 ===
+--    === prop_identity from /Users/chrisb/Documents/haskell-typed-holes-tutorial/src/Main.hs:109 ===
 --    +++ OK, passed 100 tests.
 --
 -- One final touch-up; we can simplify our functions a little bit by moving any

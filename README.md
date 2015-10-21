@@ -1,18 +1,16 @@
-# typed-holes-tutorial
+# haskell-typed-holes-tutorial
 
 Exercises for learning how to program with typed holes in Haskell.
 
-## Summary
+## Installation
+
+Install [stack][], then build the project.
 
 
-## Contributing
+```sh
+git clone https://github.com/chrisbarrett/haskell-typed-holes-tutorial
+cd haskell-typed-holes-tutorial
+stack build
+```
 
-Yes, please do! See [CONTRIBUTING][] for guidelines.
-
-## License
-
-See [COPYING][]. Copyright (c) 2015 Chris Barrett.
-
-
-[CONTRIBUTING]: ./CONTRIBUTING.md
-[COPYING]: ./COPYING
+[stack]: https://github.com/commercialhaskell/stack/blob/release/doc/install_and_upgrade.md
